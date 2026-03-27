@@ -1,4 +1,4 @@
-I build, tinker, and experiment. On paper, I'm a technical product manager.
+I build, tinker, and experiment. Senior technical PM, pre-LLM. Now it's harder to explain.
 
 15 years across ad tech, e-commerce, and SaaS. Built products at Amazon, Sizmek, Voicemod, and Kasta. Currently running [Satori Ads](https://satoriads.com) and looking for interesting opportunities.
 
