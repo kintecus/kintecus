@@ -1,6 +1,6 @@
 I build, tinker, and experiment. Senior technical PM, pre-LLM. Now it's harder to explain.
 
-15 years across ad tech, e-commerce, and SaaS. Built products at Amazon, Sizmek, Voicemod, and kasta.ua. Currently running [Satori Ads](https://satoriads.com) and looking for interesting opportunities.
+15 years across ad tech, e-commerce, and SaaS. Built products at Amazon, Sizmek, Voicemod, and kasta.ua. Currently scratching the startup itch with [Satori Ads](https://satoriads.com) and looking for interesting opportunities.
 
 Claude-pilled.
 
